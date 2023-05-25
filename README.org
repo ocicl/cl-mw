@@ -1,0 +1,9 @@
+* cl-mw
+
+A Common Lisp Master-Worker Library for Distributed Computation
+
+|---------+------------------------------------------|
+| source  | git:https://github.com/psilord/cl-mw.git |
+| commit  | 3d82622                                  |
+| systems | cl-mw                                    |
+|---------+------------------------------------------|
